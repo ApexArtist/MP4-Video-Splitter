@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 # Run the application
 python video_splitter.py
-
+```
 📈 Roadmap
 Upcoming Features
  🎵 Intelligent Audio Analysis - Cut at musical/speech boundaries
