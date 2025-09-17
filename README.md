@@ -56,3 +56,18 @@ pip install -r requirements.txt
 
 # Run the application
 python video_splitter.py
+
+📈 Roadmap
+Upcoming Features
+ 🎵 Intelligent Audio Analysis - Cut at musical/speech boundaries
+ 🔄 Batch File Processing - Process multiple videos simultaneously
+ 🎨 Video Preview - Thumbnail generation and preview
+ 📱 Mobile App - iOS/Android companion app
+ ☁️ Cloud Integration - Direct upload to cloud storage
+ 🎭 Video Effects - Basic filters and transitions
+ 🔌 Plugin System - Extensible architecture
+ 🌐 Web Interface - Browser-based version
+Version History
+v3.0 (Current) - Modern GUI, parallel processing, robust error handling
+v2.0 - Added re-encoding options, quality settings
+v1.0 - Initial release with basic splitting functionality
